@@ -1,6 +1,6 @@
 import os
 
-for i in range(1,10):
+for i in range(9,60):
     d = str(i) + ' days ago'
     with open("file.txt", 'a') as file:
         file.write(d)
