@@ -30,5 +30,3 @@ var minimumRounds = function (tasks) {
     }
     return output
 }
-
-console.log(minimumRounds([2, 3, 3]))
